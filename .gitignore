@@ -1,0 +1,61 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Streamlit secrets/config
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# CSV / Excel outputs (optional)
+*.csv
+*.xlsx
+
+# Power BI files
+*.pbix.autosave
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# MySQL dump files
+*.sql
+
+# Streamlit cache
+.streamlit/cache/
+
+# Test cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
